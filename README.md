@@ -1,3 +1,6 @@
+tutorial:
+http://gitstats.sourceforge.net/
+
 No funciona en Windows, prueba en linux
 se abre una terminal dentro de gitstats
 se ejecuta el comando
